@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Esha Flora</string>
+    <string name="title_activity_main_menu">mainMenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">In Vitro Conservation</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_sort">Sort</string>
+
+    <string name="menu_home">List Eksplan</string>
+    <string name="menu_gallery">Scan QR Code</string>
+    <string name="menu_slideshow">Daftar Kontam</string>
+    <string name="menu_tools">Daftar Jual</string>
+    <string name="menu_share">Tentang Aplikasi</string>
+    <string name="menu_send">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

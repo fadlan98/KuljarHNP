@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/berandaFragment"
+            android:icon="@android:drawable/ic_menu_compass"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_listEksplan"
+            android:icon="@android:drawable/ic_menu_sort_by_size"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_scanQRCode"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_daftarKontam"
+            android:icon="@android:drawable/ic_menu_delete"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/nav_daftarRak"
+            android:icon="@android:drawable/ic_input_get"
+            android:title="Daftar Jual" />
+        <item
+            android:id="@+id/tanamanFragment"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="Daftar Tanaman" />
+
+    </group>
+
+    <item android:title="Miscellaneous">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@android:drawable/ic_menu_info_details"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_logOut"
+                android:icon="@android:drawable/ic_lock_power_off"
+                android:title="@string/menu_send" />
+        </menu>
+    </item>
+
+</menu>

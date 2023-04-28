@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "936775897551",
+    "firebase_url": "https://kuljarhanip.firebaseio.com",
+    "project_id": "kuljarhanip",
+    "storage_bucket": "kuljarhanip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936775897551:android:a6652348edf669772682ba",
+        "android_client_info": {
+          "package_name": "com.example.kuljarhanip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936775897551-gl58jvmjt4vcim90f1e4iadusgqjoeqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kuljarhanip",
+            "certificate_hash": "fee98d6a9d6e892482fc635d81428da19d9bdb5c"
+          }
+        },
+        {
+          "client_id": "936775897551-jhi56erp90spmrv2vrcnthelfsak9sph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRJw_vAYWdhEaL8QdLs0ep1z6ffySEomw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936775897551-jhi56erp90spmrv2vrcnthelfsak9sph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
